@@ -14,40 +14,40 @@
 <br>
     
 ## VPS Deployment
-> Create Screen Host, ex : 
+> 1. Create Screen Host : 
 ```console
 screen -S ReyzuMusicBot
 ```
-> 1. Update and Upgrade
+> 2. Update and Upgrade
 ```console
 sudo apt-get update && sudo apt-get upgrade -y
 ```
-> 2. Installing Required Packages :
+> 3. Installing Required Packages :
 ```console
 sudo apt-get install python3-pip ffmpeg -y
 ```
-> 3. Setting up PIP :
+> 4. Setting up PIP :
 ```console
 sudo pip3 install -U pip
 ```
-> 4. Installing Node :
+> 5. Installing Node :
 ```console
 curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
 ```
-> 5. Clone the Repository :
+> 6. Clone the Repository :
 ```console
 git clone https://github.com/Reyzuuu/ReyzuMusicBot &&  cd ReyzuMusicBot
 ```
-> 6. Install Requirement :
+> 7. Install Requirement :
 ```console
 pip3 install -U -r requirements.txt
 ```
-> 7. Setup Bash :
+> 8. Setup Bash :
 > Please input your vars correctly.
 ```console
 bash setup
 ```
-> 8. Finally Run Reyzu Music Bot
+> 9. Finally Run Reyzu Music Bot
 ```console
 bash start
 ```
