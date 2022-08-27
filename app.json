@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/Reyzuuu/ReyzuMusicBot",
+        "value": "https://github.com/Reyzuuu/ReyzuMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
