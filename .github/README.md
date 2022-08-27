@@ -14,9 +14,13 @@
 <br>
     
 ## VPS Deployment
-> Create Screen Host, ex :
+> Create Screen Host, ex : 
 ```console
 screen -S ReyzuMusicBot
+```
+> 1. Update and Upgrade
+```console
+sudo apt-get update && sudo apt-get upgrade -y
 ```
 > 2. Installing Required Packages :
 ```console
