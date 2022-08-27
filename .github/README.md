@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/2fa9b06692a764373d8ef.jpg" align="right" width="200" height="200"/>
 
 # Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
@@ -25,11 +25,48 @@ We have temporarily disabled the deployment for  all these cloud service platfor
 <a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 </p>
 
-## 🖇 VPS Deployment
-
-Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
-
-
+<details>
+<summary><b>🔗 Deploy on VPS</b></summary>
+<br>
+    
+### VPS Deployment
+> 1. Update and Upgrade :
+```console
+sudo apt-get update && sudo apt-get upgrade -y
+```
+> 2. Installing Required Packages:
+```console
+sudo apt-get install python3-pip ffmpeg -y
+```
+> 3. Setting up PIP :
+```console
+sudo pip3 install -U pip
+```
+> 4. Installing Node :
+```console
+curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+```
+> 5. Clone the Repository :
+```console
+git clone https://github.com/Reyzuuu/ReyzuMusicBot &&  cd ReyzuMusicBot
+```
+> 6. Install Requirement :
+```console
+pip3 install -U -r requirements.txt
+```
+> 7. Install pyyaml :
+```console
+pip3 install pyyaml==5.4
+```
+> 8. Setup Bash :
+```console
+bash setup
+```
+> Please input your vars correctly.
+> 9. Finally Run Reyzu Music Bot
+```console
+bash start
+```
 # 🏷 Support / Assistance
 
 Reach out to the maintainer at one of the following places:
