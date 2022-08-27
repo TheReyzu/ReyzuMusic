@@ -1,6 +1,6 @@
 <img src="https://telegra.ph/file/2fa9b06692a764373d8ef.jpg" align="right" width="200" height="200"/>
 
-### Reyzu Music Bot <img src="https://img.shields.io/github/v/release/Reyzuuu/ReyzuMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+## Reyzu Music Bot <img src="https://img.shields.io/github/v/release/Reyzuuu/ReyzuMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
 [Reyzu Music Bot](https://github.com/Reyzuuu/ReyzuMusicBot) 100% clone Yukki Music Bot. Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
@@ -15,7 +15,7 @@
 <summary><b> 🚀 Heroku Deployment</b></summary>
 <br>
 
-<h4>Click the button below to deploy Prime on Heroku!</h4>    
+<h4>Click the button below to deploy Prime on Heroku!<h4>    
 <a href="https://heroku.com/deploy?template=https://github.com/Reyzuuu/ReyzuMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 <h4>Click the button below to deploy Reyzu on bot Telegram!</h4>
@@ -26,6 +26,7 @@
 <summary><b>🔗 Deploy on VPS</b></summary>
 <br>
     
+<h4>Make sure you already have a VPS host<h4>
 > 1. Create Screen Host : 
 ```console
 screen -S ReyzuMusicBot
