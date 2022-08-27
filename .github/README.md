@@ -8,12 +8,6 @@
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
 * Multi-Language support
-
-<details>
-<summary><b>🔗 ⚠️ Heroku / Okteto / Railway</b></summary>
-## Heroku Deployment
->We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/TheYukki/2541)
-<details>
     
 <details>
 <summary><b>🔗 Deploy on VPS</b></summary>
@@ -59,7 +53,7 @@ bash start
 ```
 </details>
 
-# 🏷 Support / Assistance
+## 🏷 Support / Assistance
 
 Reach out to the maintainer at one of the following places:
 
@@ -74,7 +68,7 @@ If you want to say **thank you** or/and support active development of ReyzuMusic
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
 Together, we can make **ReyzuMusicBot** better!
-# 📑 Acknowledgement / Credits
+## 📑 Acknowledgement / Credits
 
 Special thanks to these amazing projects/people which/who help power Reyzu Music Bot:
 
