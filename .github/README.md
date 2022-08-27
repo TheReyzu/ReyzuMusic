@@ -1,8 +1,8 @@
 <img src="https://telegra.ph/file/2fa9b06692a764373d8ef.jpg" align="right" width="200" height="200"/>
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# Yukki Music Bot <img src="https://img.shields.io/github/v/release/Reyzuuu/ReyzuMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Yukki Music Bot](https://github.com/TeamYukki/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Reyzu Music Bot](https://github.com/Reyzuuu/ReyzuMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
@@ -17,13 +17,6 @@
 ## ⚠️ Heroku / Okteto / Railway
 
 We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/TheYukki/2541)
-
-## 🖇 Generating Pyrogram String Session
-
-<p>
-<a href="https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-</p>
 
 <details>
 <summary><b>🔗 Deploy on VPS</b></summary>
@@ -73,21 +66,22 @@ bash start
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
+- [GitHub Issues](https://github.com/Reyzuuu/ReyzuMusicBot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
 - Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
+- [Telegram Support](https://t.me/ReyzuSupport)
 
-If you want to say **thank you** or/and support active development of YukkiMusicBot:
+If you want to say **thank you** or/and support active development of ReyzuMusicBot:
 
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
+- Add a [GitHub Star](https://github.com/Reyzu/ReyzuMusicBot) to the project.
 - Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
-Together, we can make **YukkiMusicBot** better!
+Together, we can make **ReyzuMusicBot** better!
 # 📑 Acknowledgement / Credits
 
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+Special thanks to these amazing projects/people which/who help power Reyzu Music Bot:
 
+- [YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 - [CallsMusic Team](https://github.com/Callsmusic)
