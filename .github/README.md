@@ -67,6 +67,8 @@ bash setup
 ```console
 bash start
 ```
+</details>
+
 # 🏷 Support / Assistance
 
 Reach out to the maintainer at one of the following places:
