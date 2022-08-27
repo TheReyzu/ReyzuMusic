@@ -53,7 +53,7 @@ bash start
 ```
 </details>
 
-## 🏷 Support / Assistance
+### 🏷 Support / Assistance
 
 Reach out to the maintainer at one of the following places:
 
@@ -68,7 +68,7 @@ If you want to say **thank you** or/and support active development of ReyzuMusic
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
 Together, we can make **ReyzuMusicBot** better!
-## 📑 Acknowledgement / Credits
+### 📑 Acknowledgement / Credits
 
 Special thanks to these amazing projects/people which/who help power Reyzu Music Bot:
 
