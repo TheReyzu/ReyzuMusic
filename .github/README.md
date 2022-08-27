@@ -1,6 +1,6 @@
 <img src="https://telegra.ph/file/2fa9b06692a764373d8ef.jpg" align="right" width="200" height="200"/>
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/Reyzuuu/ReyzuMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# Reyzu Music Bot <img src="https://img.shields.io/github/v/release/Reyzuuu/ReyzuMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
 [Reyzu Music Bot](https://github.com/Reyzuuu/ReyzuMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
@@ -27,7 +27,7 @@ We have temporarily disabled the deployment for  all these cloud service platfor
 ```console
 sudo apt-get update && sudo apt-get upgrade -y
 ```
-> 2. Installing Required Packages:
+> 2. Installing Required Packages :
 ```console
 sudo apt-get install python3-pip ffmpeg -y
 ```
@@ -52,10 +52,10 @@ pip3 install -U -r requirements.txt
 pip3 install pyyaml==5.4
 ```
 > 8. Setup Bash :
+> Please input your vars correctly.
 ```console
 bash setup
 ```
-> Please input your vars correctly.
 > 9. Finally Run Reyzu Music Bot
 ```console
 bash start
