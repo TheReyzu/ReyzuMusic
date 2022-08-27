@@ -43,11 +43,7 @@ pip3 install -U -r requirements.txt
 ```console
 bash setup
 ```
-> 8. Install pyyaml :
-```console
-pip3 install pyyaml==5.4
-```
-> 9. Finally Run Reyzu Music Bot
+> 8. Finally Run Reyzu Music Bot
 ```console
 bash start
 ```
