@@ -23,7 +23,6 @@
 </details>
 
 <details>
-<details>
 <summary><b>🔗 Deploy on VPS</b></summary>
 <br>
     
