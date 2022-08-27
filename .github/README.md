@@ -1,6 +1,6 @@
 <img src="https://telegra.ph/file/2fa9b06692a764373d8ef.jpg" align="right" width="200" height="200"/>
 
-## Reyzu Music Bot <img src="https://img.shields.io/github/v/release/Reyzuuu/ReyzuMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+### Reyzu Music Bot <img src="https://img.shields.io/github/v/release/Reyzuuu/ReyzuMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
 [Reyzu Music Bot](https://github.com/Reyzuuu/ReyzuMusicBot) 100% clone Yukki Music Bot. Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
@@ -9,7 +9,7 @@
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
 * Multi-Language support
 
-## Deploy on Heroku or VPS
+### Deploy on Heroku or VPS
 
 <details>
 <summary><b> 🚀 Heroku Deployment</b></summary>
