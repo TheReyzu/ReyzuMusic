@@ -38,14 +38,14 @@ git clone https://github.com/Reyzuuu/ReyzuMusicBot &&  cd ReyzuMusicBot
 ```console
 pip3 install -U -r requirements.txt
 ```
-> 7. Install pyyaml :
-```console
-pip3 install pyyaml==5.4
-```
-> 8. Setup Bash :
+> 7. Setup Bash :
 > Please input your vars correctly.
 ```console
 bash setup
+```
+> 8. Install pyyaml :
+```console
+pip3 install pyyaml==5.4
 ```
 > 9. Finally Run Reyzu Music Bot
 ```console
