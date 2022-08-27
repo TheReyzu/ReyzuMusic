@@ -26,7 +26,6 @@
 <summary><b>🔗 Deploy on VPS</b></summary>
 <br>
     
-<h4>Make sure you already have a VPS host<h4>
 > 1. Create Screen Host : 
 ```console
 screen -S ReyzuMusicBot
