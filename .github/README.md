@@ -29,7 +29,7 @@
 #### Tutorials Deploy on VPS
 > 1. Create Screen Host : 
 ```console
-screen -S ReyzuMusicBot
+screen -S ReyzuMusic
 ```
 > 2. Update and Upgrade
 ```console
