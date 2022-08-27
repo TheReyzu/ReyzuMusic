@@ -16,7 +16,7 @@
 ## VPS Deployment
 > Create Screen Host, ex :
 ```console
-Screen -S ReyzuMusicBot
+screen -S ReyzuMusicBot
 ```
 > 2. Installing Required Packages :
 ```console
