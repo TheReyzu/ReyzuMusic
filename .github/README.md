@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/2fa9b06692a764373d8ef.jpg" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/2fa9b06692a764373d8ef.jpg" align="center" width="200" height="200"/>
 
 ## Reyzu Music Bot <img src="https://img.shields.io/github/v/release/Reyzuuu/ReyzuMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
