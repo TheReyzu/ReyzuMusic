@@ -261,7 +261,7 @@ H_B_2 : "Perintah Mainkan"
 H_B_3 : "Perintah Bot"
 H_B_4 : "Perintah Ekstra"
 H_B_5 : "Tutup Menu"
-H_B_6 : "Perintah SudoUser"
+H_B_6 : "Perintah Pengguna Sudo"
 
 #PlayMode
 PM_B_1 : "Putar Langsung"
