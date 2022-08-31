@@ -253,15 +253,15 @@ S_B_4 : "⚡ Channel"
 S_B_5 : "✚ Tambahkan ke Group"
 S_B_6 : "⚡ Repository"
 S_B_7 : "👨‍💻 Pemilik Bot"
-S_B_8 : "🔎 Daftar Menu Perintah."
+S_B_8 : "🔎 Penggunaan Menu Perintah."
 
 #Help 
 H_B_1 : "Perintah Admin"
-H_B_2 : "Mainkan Perintah"
+H_B_2 : "Perintah Mainkan"
 H_B_3 : "Perintah Bot"
 H_B_4 : "Perintah Ekstra"
 H_B_5 : "Tutup Menu"
-H_B_6 : "Perintah SudoUser"
+H_B_6 : "Perintah Pengguna Sudo"
 
 #PlayMode
 PM_B_1 : "Putar Langsung"
