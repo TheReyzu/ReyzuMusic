@@ -1,5 +1,5 @@
 #!/bin/bash
-### Reyzu Music Bot Installer
+### Reyzu Music Installer
 
 pprint (){
 	cred='\033[0;31m'
@@ -52,7 +52,7 @@ packages(){
 			pprint "SUCCESS.\n\n" "cgreen"
 		else
 			pprint "FAIL.\n\n" "cred"
-			pprint "You need to install ffmpeg manually in order to use YukkiMusicBot, exiting..\n" "cblue"
+			pprint "You need to install ffmpeg manually in order to use ReyzuMusic, exiting..\n" "cblue"
 			exit 1
 		fi
 	fi
@@ -75,8 +75,8 @@ node(){
 
 repo(){
 	# Get git repo if the installer is runned standalone
-	[[ ! "YukkiMusicBot" == $(basename -s .git `git config --get remote.origin.url`) ]] &&
-	git clone https://github.com/notreallyshikhar/YukkiMusicBot &&  cd YukkiMusicBot
+	[[ ! "ReyzuMusic" == $(basename -s .git `git config --get remote.origin.url`) ]] &&
+	git clone https://github.com/Reyzu/ReyzuMusic &&  cd ReyzuMusic
 }
 
 
@@ -132,6 +132,6 @@ MUSIC_BOT_NAME = $mbt
 STRING_SESSION = $string_session
 OWNER_ID = $ownid""" > .env
 clear
-pprint "\n\n\nYour Vars have been saved Successfully!, Thanks for using Yukki Installer, now you can proceed by starting the bot with bash start!"
+pprint "\n\n\nYour Vars have been saved Successfully!, Thanks for using Reyzu Installer, now you can proceed by starting the bot with bash start!"
 pprint "\n\n\nWant more vars?"
 pprint "\nCheckout config.py and readme.md inside config folder for addtional vars. You can change all images , Thumbs, mode and everything from vars. Have a look towards them\n\n"
