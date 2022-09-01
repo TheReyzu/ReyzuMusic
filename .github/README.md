@@ -57,7 +57,7 @@ git clone https://github.com/Reyzuuu/ReyzuMusic &&  cd ReyzuMusic
 ```console
 pip3 install -U -r requirements.txt
 ```
-> 8. Setup Bash "Please input your vars correctly" (Y/N "type Y then enter if there is a bash update") :
+> 8. Setup Bash "Please input your vars correctly" (y/n "type Y") :
 ```console
 bash setup
 ```
