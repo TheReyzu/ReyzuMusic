@@ -29,7 +29,7 @@
 <br>
     
 #### Tutorials Deploy on VPS
-> 1. Create Screen Host : 
+> 1. Create Screen : 
 ```console
 screen -S ReyzuMusic
 ```
