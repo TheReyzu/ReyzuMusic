@@ -1,5 +1,5 @@
 #!/bin/bash
-### Yukki Music Bot Installer
+### Reyzu Music Bot Installer
 
 pprint (){
 	cred='\033[0;31m'
@@ -90,7 +90,7 @@ installation(){
 }
 
 clear
-pprint "Welcome to Yukki Music Bot Setup Installer\n\n"
+pprint "Welcome to Reyzu Music Setup Installer\n\n"
 pprint "If you see any error during Installation Process, Please refer to these files for logs: "
 pprint "\nFor node js errors , Checkout nodelog.txt"
 pprint "\nFor pypi packages errors , Checkout pypilog.txt"
@@ -103,7 +103,7 @@ packages
 node
 repo
 installation
-pprint "\n\n\n\n\nYukki Music Bot Installation Completed!" "cgreen"
+pprint "\n\n\n\n\nReyzu Music Installation Completed!" "cgreen"
 sleep 4
 clear
 
