@@ -84,7 +84,7 @@ If you want to say **thank you** or/and support active development of ReyzuMusic
 Together, we can make **ReyzuMusic** better!
 ### 📑 Acknowledgement / Credits
 
-Special thanks to these amazing projects/people which/who help power Reyzu Music Bot:
+Special thanks to these amazing projects/people which/who help power Reyzu Music :
 
 - [NotReallyShikhar](https://github.com/NotReallyShikhar) 
 - [TeamYukki](https://github.com/TeamYukki)
