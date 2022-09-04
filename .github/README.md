@@ -86,7 +86,8 @@ Together, we can make **ReyzuMusic** better!
 
 Special thanks to these amazing projects/people which/who help power Reyzu Music Bot:
 
-- [YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot)
+- [NotReallyShikhar](https://github.com/NotReallyShikhar) 
+- [TeamYukki](https://github.com/TeamYukki)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 - [CallsMusic Team](https://github.com/Callsmusic)
