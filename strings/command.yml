@@ -3,7 +3,7 @@
 # Bot Commands
 PING_COMMAND : ["ping"]
 START_COMMAND : ["start"]
-HELP_COMMAND : ["help"]
+HELP_COMMAND : ["mhelp"]
 SETTINGS_COMMAND : ["settings", "setting"]
 RELOAD_COMMAND : ["admincache", "reload"]
 GSTATS_COMMAND : ["gstats"]
