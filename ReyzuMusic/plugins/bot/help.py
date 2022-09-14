@@ -1,11 +1,10 @@
-import asyncio
 from typing import Union
 
 from pyrogram import filters, types
 from pyrogram.types import InlineKeyboardMarkup, Message
 
 import config
-from config.config import OWNER_ID
+from ReyzuMusic import userbot
 from config import BANNED_USERS
 from strings import get_command, get_string, helpers
 from ReyzuMusic import app
