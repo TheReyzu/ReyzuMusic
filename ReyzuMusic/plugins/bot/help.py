@@ -3,8 +3,6 @@ from typing import Union
 from pyrogram import filters, types
 from pyrogram.types import InlineKeyboardMarkup, Message
 
-import config
-from config.config import OWNER_ID
 from config import BANNED_USERS
 from strings import get_command, get_string, helpers
 from ReyzuMusic import app
@@ -45,11 +43,11 @@ async def helper_private(
         if update.message.photo:
             await update.message.delete()
             await update.message.reply_text(
-                _["help_1"].format(config.OWNER_ID), reply_markup=keyboard
+                _["help_1"], reply_markup=keyboard
             )
         else:
             await update.edit_message_text(
-                _["help_1"].format(config.OWNER_ID), reply_markup=keyboard
+                _["help_1"], reply_markup=keyboard
             )
     else:
         chat_id = update.chat.id
@@ -61,7 +59,7 @@ async def helper_private(
         language = await get_lang(chat_id)
         _ = get_string(language)
         keyboard = help_pannel(_)
-        await update.reply_text(_["help_1"].format(config.OWNER_ID), reply_markup=keyboard)
+        await update.reply_text(_["help_1"], reply_markup=keyboard)
 
 
 @app.on_message(
@@ -100,7 +98,7 @@ async def helper_cb(client, CallbackQuery, _):
         pass
     if cb == "hb1":
         await CallbackQuery.edit_message_text(
-            helpers.HELP_1.format(config.OWNER_ID), reply_markup=keyboard
+            helpers.HELP_1, reply_markup=keyboard
         )
     elif cb == "hb2":
         await CallbackQuery.edit_message_text(
