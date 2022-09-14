@@ -1,9 +1,5 @@
 from typing import Union
 
-from pyrogram import Client
-from pyrogram.errors import (ChatAdminRequired,
-                             UserAlreadyParticipant,
-                             UserNotParticipant)
 from pyrogram import filters, types
 from pyrogram.types import InlineKeyboardMarkup, Message
 
