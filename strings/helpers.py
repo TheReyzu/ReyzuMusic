@@ -1,54 +1,53 @@
-HELP_1 = """✅**<u>Admin Commands:</u>**
+HELP_1 = """✅**<u>Admin Commands :</u>**
 
 **c** stands for channel play.
 
-/pause or /cpause - Pause the playing music.
-/resume or /cresume- Resume the paused music.
-/mute or /cmute- Mute the playing music.
-/unmute or /cunmute- Unmute the muted music.
-/skip or /cskip- Skip the current playing music.
-/stop or /cstop- Stop the playing music.
-/shuffle or /cshuffle- Randomly shuffles the queued playlist.
-/seek or /cseek - Forward Seek the music to your duration
-/seekback or /cseekback - Backward Seek the music to your duration
-/restart - Restart bot for your chat .
+/pause or /cpause - Jeda musik yang diputar.
+/resume or /cresume - Lanjutkan musik yang dijeda.
+/mute or /cmute - Bisukan musik yang diputar.
+/unmute or /cunmute - Suarakan musik yang dibisukan.
+/skip or /cskip - Lewati musik yang sedang diputar.
+/stop or /cstop - Hentikan pemutaran musik.
+/shuffle or /cshuffle - Secara acak mengacak daftar putar yang antri.
+/seek or /cseek - Teruskan mencari musik sesuai durasi.
+/seekback or /cseekback - Kembali mencari musik sesuai durasi.
+/restart - Mulai ulang bot untuk grup Anda.
 
 
-✅<u>**Specific Skip:**</u>
-/skip or /cskip [Number(example: 3)] 
-    - Skips music to a the specified queued number. Example: /skip 3 will skip music to third queued music and will ignore 1 and 2 music in queue.
+✅<u>**Specific Skip :**</u>
+/skip or /cskip [Nomor (contoh : 3)] 
+    - Melewati musik ke nomor antrian yang ditentukan. Contoh : /skip 3 akan melewatkan musik ke musik antrian ketiga dan akan mengabaikan musik 1 dan 2 dalam antrian.
 
-✅<u>**Loop Play:**</u>
-/loop or /cloop [enable/disable] or [Numbers between 1-10] 
-    - When activated, bot loops the current playing music to 1-10 times on voice chat. Default to 10 times.
+✅<u>**Loop Play :**</u>
+/loop or /cloop [enable/disable] or [Angka antara 1-10] 
+    - Saat diaktifkan, bot memutar musik yang sedang diputar menjadi 1-10 kali pada obrolan suara.
 
-✅<u>**Auth Users:**</u>
-Auth Users can use admin commands without admin rights in your chat.
+✅<u>**Auth Users :**</u>
+Pengguna Auth dapat menggunakan perintah admin tanpa hak admin di obrolan Anda.
 
-/auth [Username] - Add a user to AUTH LIST of the group.
-/unauth [Username] - Remove a user from AUTH LIST of the group.
-/authusers - Check AUTH LIST of the group."""
-
-
-HELP_2 = """✅<u>**Play Commands:**</u>
-
-Available Commands = play , vplay , cplay
-
-ForcePlay Commands = playforce , vplayforce , cplayforce
-
-**c** stands for channel play.
-**v** stands for video play.
-**force** stands for force play.
-
-/play or /vplay or /cplay  - Bot will start playing your given query on voice chat or Stream live links on voice chats.
-
-/playforce or /vplayforce or /cplayforce -  **Force Play** stops the current playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.
-
-/channelplay [Chat username or id] or [Disable] - Connect channel to a group and stream music on channel's voice chat from your group.
+/auth [Username] - Tambahkan pengguna ke daftar AUTH grup.
+/unauth [Username] - Hapus pengguna dari daftar AUTH grup.
+/authusers - Periksa daftar AUTH grup."""
 
 
-✅**<u>Bot's Server Playlists:</u>**
-/playlist  - Check Your Saved Playlist On Servers.
+HELP_2 = """✅<u>**Play Commands :**</u>
+
+Perintah yang tersedia = play , vplay , cplay
+
+Perintah ForcePlay = playforce , vplayforce , cplayforce
+
+**c** singkatan dari pemutaran saluran.
+**v** singkatan dari pemutaran video.
+**force** singkatan dari force play.
+
+/play or /vplay or /cplay  - Bot akan mulai memainkan kueri yang Anda berikan di obrolan suara atau Streaming tautan langsung di obrolan suara.
+
+/playforce or /vplayforce or /cplayforce -  **Force Play** menghentikan trek yang sedang diputar pada obrolan suara dan mulai memutar trek yang dicari secara instan tanpa mengganggu/mengosongkan antrean.
+/channelplay [Chat username or id] or [Disable] - Hubungkan channel ke grup dan streaming musik di obrolan suara channel dari grup Anda.
+
+
+✅**<u>Bot's Server Playlists :</u>**
+/playlist  - Periksa Daftar Putar tersimpan Anda di server.
 /deleteplaylist - Delete any saved music in your playlist
 /play  - Start playing Your Saved Playlist from Servers."""
 
