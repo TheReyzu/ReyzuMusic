@@ -36,7 +36,7 @@ Perintah yang tersedia = play , vplay , cplay
 
 Perintah ForcePlay = playforce , vplayforce , cplayforce
 
-**c** singkatan dari pemutaran saluran.
+**c** singkatan dari pemutaran Channel.
 **v** singkatan dari pemutaran video.
 **force** singkatan dari force play.
 
