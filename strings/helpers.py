@@ -143,7 +143,7 @@ HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 
 🎥**<u>VIDEOCALLS FUNCTION :</u>**
 /set_video_limit [Number atau Chats] - Tetapkan Jumlah Obrolan maksimum yang diizinkan untuk Panggilan Video dalam satu waktu. Default untuk 3 obrolan.
-/videomode [download|m3u8] - Jika mode unduh diaktifkan, Bot akan mengunduh video. Bot Secara default ke M3u8. Anda dapat menggunakan mode unduhan ketika kueri apa pun tidak diputar dalam mode m3u8.
+/videomode [download|m3u8] - Jika mode download diaktifkan, Bot akan mengunduh video. Bot Secara default ke M3u8. Anda dapat menggunakan mode unduhan ketika kueri apa pun tidak diputar dalam mode m3u8.
 
 ⚡️**<u>PRIVATE BOT FUNCTION :</u>**
 /authorize [CHAT_ID] - Izinkan obrolan untuk menggunakan Bot.
