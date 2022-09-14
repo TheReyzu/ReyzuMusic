@@ -151,7 +151,7 @@ HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 /authorized - Periksa semua obrolan Bot yang dizinkan.
 
 🌐**<u>BROADCAST FUNCTION:</u>**
-/broadcast [Message or Reply to a Message] - Broadcast any message to Bot's Served Chats.
+/broadcast [Message atau balas ke pesan] - Siarkan pesan apa pun ke Grup yang Dilayani Bot.
 
 <u>options for broadcast :</u>
 **-pin** : Menyematkan pesan Anda
@@ -160,6 +160,6 @@ HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 **-assistant** : Menyiarkan pesan Anda dari akun asisten Bot.
 **-nobot** : Memaksa Bot untuk tidak menyiarkan pesan.
 
-**Contoh :** `/broadcast -user -assistant -pin Cari ayang`
+**Contoh :** `/broadcast -user -assistant -pin Ayang Melati`
 
 """
