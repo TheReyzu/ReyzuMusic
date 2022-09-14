@@ -1,6 +1,6 @@
 HELP_1 = """✅**<u>Admin Commands :</u>**
 
-**c** stands for channel play.
+**c** singkatan untuk putar di Channel.
 
 /pause or /cpause - Jeda musik yang diputar.
 /resume or /cresume - Lanjutkan musik yang dijeda.
