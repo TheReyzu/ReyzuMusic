@@ -75,7 +75,7 @@ admin_34 : "Gagal mencari aliran saat ini."
 
 # Start
 start_1 : "Terima kasih telah menerima saya di {0}.\n{1} Saya Masih Berfungsi.\n\nUntuk bantuan atau bantuan apa pun, periksa Group dan Channel Support kami."
-start_2 : "Halo 👋, Nama saya {0}.\n\nSaya Bot streaming telegram dengan perangkat pendukung seperti Youtube, Spotify, Resso, AppleMusic , Soundcloud dll.\n\nJangan ragu menambahkan saya ke grup Anda."
+start_2 : "Halo 👋, Nama saya {0}.\n\nSaya Bot streaming telegram dengan perangkat pendukung seperti : Youtube, Spotify, Resso, AppleMusic , Soundcloud dll.\n\nJangan ragu menambahkan saya ke grup Anda."
 start_3 : "Selamat datang di {0}\n\nSaya tidak memerlukan **izin admin** untuk bekerja ( sampai diminta ).\n\nNama Pengguna Asisten:- @{1}\nID Asisten:- {2} "
 start_4 : "Pemilik {0}[{1}] baru saja bergabung dengan obrolan Anda."
 start_5 : "Anggota Pengguna Sudo {0}[{1}] baru saja bergabung dengan obrolan Anda."
@@ -83,7 +83,7 @@ start_6 : "❗️ **Diperlukan Supergroup** ️\n\nHarap ubah **grup** Anda menj
 start_7 : "**Obrolan Daftar Hitam**\n\nObrolan Anda telah dimasukkan dalam daftar hitam oleh Bot. Silakan minta SudoUser untuk memasukkan obrolan ke daftar putih terlebih dahulu. Periksa [Sudolist dari sini]({0})"
 
 # Help
-help_1 : "Klik tombol di bawah untuk informasi lebih lanjut.\n\nJika Anda menghadapi masalah, Anda dapat menghubungi pemilik saya atau bertanya di Group dukungan.\n\nSemua perintah menggunakan : /"
+help_1 : "Klik tombol di bawah untuk informasi lebih lanjut.\n\nJika menghadapi masalah, Anda dapat menghubungi pemilik saya atau bertanya di Group dukungan.\n\nSemua perintah menggunakan : /"
 help_2 : "Hubungi saya di PM untuk bantuan."
 
 # Settings
