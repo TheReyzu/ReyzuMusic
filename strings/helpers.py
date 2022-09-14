@@ -70,7 +70,7 @@ HELP_3 = """✅<u>**Bot Commands :**</u>
 
 HELP_4 = """✅<u>**Extra  Commands :**</u>
 /start - Memulai Bot.
-/mhelp  - Dapatkan Menu  Perintah dengan penjelasan rinci tentang perintah.
+/help  - Dapatkan Menu  Perintah dengan penjelasan rinci tentang perintah.
 /ping - Ping Bot dan periksa statistik Ram, Cpu, dll dari Bot.
 
 ✅<u>**Group Settings :**</u>
