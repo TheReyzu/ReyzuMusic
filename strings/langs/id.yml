@@ -83,7 +83,7 @@ start_6 : "❗️ **Diperlukan Supergroup** ️\n\nHarap ubah **grup** Anda menj
 start_7 : "**Obrolan Daftar Hitam**\n\nObrolan Anda telah dimasukkan dalam daftar hitam oleh Bot. Silakan minta SudoUser untuk memasukkan obrolan ke daftar putih terlebih dahulu. Periksa [Sudolist dari sini]({0})"
 
 # Help
-help_1 : "Halo 👋, Nama saya {0}.\n\nSaya bot streaming dengan perangkat pendukung seperti : Youtube, Spotify, Resso, AppleMusic , Soundcloud dll.\n\nJangan ragu menambahkan saya ke grup Anda."
+help_1 : "Klik tombol di bawah untuk informasi lebih lanjut.\n\nSaya bot streaming dengan perangkat pendukung seperti : Youtube, Spotify, Resso, AppleMusic , Soundcloud dll.\n\nJangan ragu menambahkan saya ke grup Anda."
 help_2 : "Hubungi saya di PM untuk bantuan."
 
 # Settings
