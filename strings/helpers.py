@@ -11,7 +11,7 @@ HELP_1 = """✅**<u>Admin Commands :</u>**
 /shuffle or /cshuffle - Secara acak mengacak daftar putar yang antri.
 /seek or /cseek - Teruskan mencari musik sesuai durasi.
 /seekback or /cseekback - Kembali mencari musik sesuai durasi.
-/restart - Mulai ulang bot untuk grup Anda.
+/restart - Mulai ulang Bot untuk grup Anda.
 
 
 ✅<u>**Specific Skip :**</u>
@@ -48,118 +48,118 @@ Perintah ForcePlay = playforce , vplayforce , cplayforce
 
 ✅**<u>Bot's Server Playlists :</u>**
 /playlist  - Periksa Daftar Putar tersimpan Anda di server.
-/deleteplaylist - Delete any saved music in your playlist
-/play  - Start playing Your Saved Playlist from Servers."""
+/deleteplaylist - Hapus semua musik yang disimpan di daftar putar Anda.
+/play  - Mulai mainkan Daftar Putar tersimpan Anda dari Server."""
 
 
-HELP_3 = """✅<u>**Bot Commands:**</u>
+HELP_3 = """✅<u>**Bot Commands :**</u>
 
-/stats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc.
+/stats - Dapatkan Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat, dll.
 
-/sudolist - Check Sudo Users of Reyzu Music Bot
+/sudolist - Periksa Pengguna Sudo
 
-/lyrics [Music Name] - Searches Lyrics for the particular Music on web.
+/lyrics [Nama Musik] - Mencari Lirik untuk Musik tertentu di web.
 
-/song [Track Name] or [YT Link] - Download any track from youtube in mp3 or mp4 formats.
+/song [Nama Trek] or [YT Link] - Unduh lagu apa pun dari youtube dalam format mp3 atau mp4.
 
-/player -  Get a interactive Playing Panel.
+/player -  Dapatkan Panel Mainkan interaktif.
 
-**c** stands for channel play.
+**c** singkatan dari pemutaran saluran.
 
-/queue or /cqueue- Check Queue List of Music."""
+/queue or /cqueue - Periksa Daftar Antrian Musik."""
 
-HELP_4 = """✅<u>**Extra  Commands:**</u>
-/start - Start the Music Bot.
-/help  - Get Commands Helper Menu with detailed explanations of commands.
-/ping- Ping the Bot and check Ram, Cpu etc stats of Bot.
+HELP_4 = """✅<u>**Extra  Commands :**</u>
+/start - Memulai Bot.
+/mhelp  - Dapatkan Menu  Perintah dengan penjelasan rinci tentang perintah.
+/ping - Ping Bot dan periksa statistik Ram, Cpu, dll dari Bot.
 
-✅<u>**Group Settings:**</u>
-/settings - Get a complete group's settings with inline buttons
+✅<u>**Group Settings :**</u>
+/settings - Dapatkan pengaturan grup lengkap dengan tombol sebaris.
 
-🔗 **Options in Settings:**
+🔗 **Opsi Pengaturan :**
 
-1️⃣ You can set **Audio Quality** you want to stream on voice chat.
+1️⃣ Anda dapat mengatur **Kualitas Audio** yang ingin Anda streaming di obrolan suara.
 
-2️⃣ You can set **Video Quality** you want to stream on voice chat.
+2️⃣ Anda dapat mengatur **Kualitas Video** yang ingin Anda streaming di obrolan suara.
 
-3️⃣ **Auth Users**:- You can change admin commands mode from here to everyone or admins only. If everyone, anyone present in you group will be able to use admin commands(like /skip, /stop etc)
+3️⃣ **Auth Users** : - Anda dapat mengubah mode perintah admin dari sini ke semua orang atau hanya admin. Jika semua orang, siapa pun yang hadir di grup Anda akan dapat menggunakan perintah admin (seperti /skip, /stop dll)
 
-4️⃣ **Clean Mode:** When enabled deletes the bot's messages after 5 mins from your group to make sure your chat remains clean and good.
+4️⃣ **Clean Mode :** Saat diaktifkan, hapus pesan bot setelah 5 menit dari grup Anda untuk memastikan obrolan Anda tetap bersih dan baik.
 
-5️⃣ **Command Clean** : When activated, Bot will delete its executed commands (/play, /pause, /shuffle, /stop etc) immediately.
+5️⃣ **Command Clean** : Saat diaktifkan, Bot akan segera menghapus perintah yang dijalankannya (/play, /pause, /shuffle, /stop dll).
 
-6️⃣ **Play Settings:**
+6️⃣ **Play Settings :**
 
-/playmode - Get a complete play settings panel with buttons where you can set your group's play settings. 
+/playmode - Dapatkan panel pengaturan pemutaran lengkap dengan tombol tempat Anda dapat mengatur pengaturan pemutaran grup Anda. 
 
-<u>Options in playmode:</u>
+<u>Options in playmode :</u>
 
-1️⃣ **Search Mode** [Direct or Inline] - Changes your search mode while you give /play mode. 
+1️⃣ **Search Mode** [Direct atau Inline] - Mengubah mode pencarian Anda saat Anda memberikan mode /play. 
 
-2️⃣ **Admin Commands** [Everyone or Admins] - If everyone, anyone present in you group will be able to use admin commands(like /skip, /stop etc)
+2️⃣ **Admin Commands** [Everyone atau Admins] - Jika Everyone, siapa pun yang hadir di grup Anda akan dapat menggunakan perintah admin (seperti /skip, /stop dll).
 
-3️⃣ **Play Type** [Everyone or Admins] - If admins, only admins present in group can play music on voice chat."""
+3️⃣ **Play Type** [Everyone atau Admins] - Jika admins, hanya admin yang ada di grup yang dapat memutar musik di obrolan suara."""
 
 HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
-/addsudo [Username or Reply to a user]
-/delsudo [Username or Reply to a user]
+/addsudo [Username atau Balas ke pengguna]
+/delsudo [Username atau Balas ke Pengguna]
 
-🛃**<u>HEROKU:</u>**
-/usage - Dyno Usage.
+🛃**<u>HEROKU :</u>**
+/usage - Penggunaan Dynos.
 
-🌐**<u>CONFIG VARS:</u>**
-/get_var - Get a config var from Heroku or .env.
-/del_var - Delete any var on Heroku or .env.
-/set_var [Var Name] [Value] - Set a Var or Update a Var on heroku or .env. Seperate Var and its Value with a space.
+🌐**<u>CONFIG VARS :</u>**
+/get_var - Dapatkan var konfigurasi dari Heroku atau .env.
+/del_var - Hapus semua var di Heroku atau .env.
+/set_var [Nama Var] [Value] - Setel Var atau Perbarui Var di heroku atau .env. Pisahkan Var dan Value dengan spasi.
 
-🤖**<u>BOT COMMANDS:</u>**
-/reboot - Reboot your Bot. 
-/update - Update Bot.
-/speedtest - Check server speeds
+🤖**<u>BOT COMMANDS :</u>**
+/reboot - Nyalakan ulang Bot. 
+/update - Perbarui Bot.
+/speedtest - Periksa kecepatan server
 /maintenance [enable / disable] 
-/logger [enable / disable] - Bot logs the searched queries in logger group.
-/get_log [Number of Lines] - Get log of your bot from heroku or vps. Works for both.
-/autoend [enable|disable] - Enable Auto stream end after 3 mins if no one is listening.
+/logger [enable / disable] - Bot mencatat kueri yang dicari di grup logger.
+/get_log [Number of Lines] - Dapatkan log bot Anda dari heroku atau vps. Bisa untuk keduanya.
+/autoend [enable|disable] - Aktifkan Auto end setelah 3 menit jika tidak ada yang mendengarkan.
 
-📈**<u>STATS COMMANDS:</u>**
-/activevoice - Check active voice chats on bot.
-/activevideo - Check active video calls on bot.
-/stats - Check Bots Stats
+📈**<u>STATS COMMANDS :</u>**
+/activevoice - Periksa obrolan suara aktif di Bot.
+/activevideo - Periksa panggilan video aktif di Bot.
+/stats - Periksa Statistik Bot.
 
-⚠️**<u>BLACKLIST CHAT FUNCTION:</u>**
-/blacklistchat [CHAT_ID] - Blacklist any chat from using Music Bot
-/whitelistchat [CHAT_ID] - Whitelist any blacklisted chat from using Music Bot
+⚠️**<u>BLACKLIST CHAT FUNCTION :</u>**
+/blacklistchat [CHAT_ID] - Daftar hitam obrolan Grup.
+/whitelistchat [CHAT_ID] - Mengubah daftar hitam ke daftar putih obrolan grup
 /blacklistedchat - Check all blacklisted chats.
 
-👤**<u>BLOCKED FUNCTION:</u>**
-/block [Username or Reply to a user] - Prevents a user from using bot commands.
-/unblock [Username or Reply to a user] - Remove a user from Bot's Blocked List.
-/blockedusers - Check blocked Users Lists
+👤**<u>BLOCKED FUNCTION :</u>**
+/block [Username atau Balas ke Pengguna] - Mencegah pengguna menggunakan perintah Bot.
+/unblock [Username atau Balas Ke Pengguna] - Hapus pengguna dari Daftar Blokir Bot.
+/blockedusers - Periksa Daftar Pengguna yang diblokir
 
-👤**<u>GBAN FUNCTION:</u>**
-/gban [Username or Reply to a user] - Gban a user from bot's served chat and stop him from using your bot.
-/ungban [Username or Reply to a user] - Remove a user from Bot's gbanned List and allow him for using your bot
-/gbannedusers - Check Gbanned Users Lists
+👤**<u>GBAN FUNCTION :</u>**
+/gban [Username atau Balas ke Pengguna] - Gban pengguna dari obrolan yang dilayani bot dan hentikan dia menggunakan Bot.
+/ungban [Username atau Balas ke Pengguna] - Hapus pengguna dari Daftar gbanned Bot dan izinkan dia menggunakan Bot.
+/gbannedusers - Periksa Daftar Pengguna Gbanned
 
-🎥**<u>VIDEOCALLS FUNCTION:</u>**
-/set_video_limit [Number of Chats] - Set a maximum Number of Chats allowed for Video Calls at a time. Default to 3 chats.
-/videomode [download|m3u8] - If download mode is enabled, Bot will download videos instead of playing them in M3u8 form. ByDefault to M3u8. You can use download mode when any query doesnt plays in m3u8 mode.
+🎥**<u>VIDEOCALLS FUNCTION :</u>**
+/set_video_limit [Number atau Chats] - Tetapkan Jumlah Obrolan maksimum yang diizinkan untuk Panggilan Video dalam satu waktu. Default untuk 3 obrolan.
+/videomode [download|m3u8] - Jika mode unduh diaktifkan, Bot akan mengunduh video. Bot Secara default ke M3u8. Anda dapat menggunakan mode unduhan ketika kueri apa pun tidak diputar dalam mode m3u8.
 
-⚡️**<u>PRIVATE BOT FUNCTION:</u>**
-/authorize [CHAT_ID] - Allow a chat for using your bot.
-/unauthorize [CHAT_ID] - Disallow a chat from using your bot.
-/authorized - Check all allowed chats of your bot.
+⚡️**<u>PRIVATE BOT FUNCTION :</u>**
+/authorize [CHAT_ID] - Izinkan obrolan untuk menggunakan Bot.
+/unauthorize [CHAT_ID] - Larang obrolan menggunakan Bot.
+/authorized - Periksa semua obrolan Bot yang dizinkan.
 
 🌐**<u>BROADCAST FUNCTION:</u>**
 /broadcast [Message or Reply to a Message] - Broadcast any message to Bot's Served Chats.
 
-<u>options for broadcast:</u>
-**-pin** : This will pin your message 
-**-pinloud** : This will pin your message with loud notification
-**-user** : This will broadcast your message to the users who have started your bot.
-**-assistant** : This will broadcast your message from assistant account of your bot.
-**-nobot** : This will force your bot to not broadcast message
+<u>options for broadcast :</u>
+**-pin** : Menyematkan pesan Anda
+**-pinloud** : Menyematkan pesan Anda dengan pemberitahuan keras
+**-user** : Menyiarkan pesan Anda ke pengguna yang telah memulai Bot.
+**-assistant** : Menyiarkan pesan Anda dari akun asisten Bot.
+**-nobot** : Memaksa Bot untuk tidak menyiarkan pesan.
 
-**Example:** `/broadcast -user -assistant -pin Hello Testing`
+**Contoh :** `/broadcast -user -assistant -pin Cari ayang`
 
 """
