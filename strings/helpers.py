@@ -101,7 +101,7 @@ HELP_4 = """✅<u>**Extra  Commands :**</u>
 3️⃣ **Play Type** [Everyone atau Admins] - Jika admins, hanya admin yang ada di grup yang dapat memutar musik di obrolan suara."""
 
 HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
-/addsudo [Username atau Balas ke pengguna]
+/addsudo [Username atau Balas ke Pengguna]
 /delsudo [Username atau Balas ke Pengguna]
 
 🛃**<u>HEROKU :</u>**
@@ -133,7 +133,7 @@ HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 
 👤**<u>BLOCKED FUNCTION :</u>**
 /block [Username atau Balas ke Pengguna] - Mencegah pengguna menggunakan perintah Bot.
-/unblock [Username atau Balas Ke Pengguna] - Hapus pengguna dari Daftar Blokir Bot.
+/unblock [Username atau Balas ke Pengguna] - Hapus pengguna dari Daftar Blokir Bot.
 /blockedusers - Periksa Daftar Pengguna yang diblokir
 
 👤**<u>GBAN FUNCTION :</u>**
