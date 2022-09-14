@@ -4,6 +4,7 @@ from pyrogram import filters, types
 from pyrogram.types import InlineKeyboardMarkup, Message
 
 from config import BANNED_USERS
+from config.config import OWNER_ID
 from strings import get_command, get_string, helpers
 from ReyzuMusic import app
 from ReyzuMusic.misc import SUDOERS
