@@ -99,7 +99,7 @@ async def helper_cb(client, CallbackQuery, _):
         pass
     if cb == "hb1":
         await CallbackQuery.edit_message_text(
-            helpers.HELP_1, reply_markup=keyboard
+            helpers.HELP_1.format(config.MUSIC_BOT_NAME), reply_markup=keyboard
         )
     elif cb == "hb2":
         await CallbackQuery.edit_message_text(
