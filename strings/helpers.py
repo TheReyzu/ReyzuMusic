@@ -1,4 +1,4 @@
-HELP_1 = """✅**<u>Admin Commands :</u>**
+HELP_1 = """✅**<u>Perintah Admin :</u>**
 
 **c** singkatan untuk putar di Channel.
 
@@ -14,15 +14,15 @@ HELP_1 = """✅**<u>Admin Commands :</u>**
 /restart - Mulai ulang Bot untuk grup Anda.
 
 
-✅<u>**Specific Skip :**</u>
+✅<u>**Perintah Spesifik :**</u>
 /skip or /cskip [Nomor (contoh : 3)] 
     - Melewati musik ke nomor antrian yang ditentukan. Contoh : /skip 3 akan melewatkan musik ke musik antrian ketiga dan akan mengabaikan musik 1 dan 2 dalam antrian.
 
-✅<u>**Loop Play :**</u>
+✅<u>**Perintah Loop :**</u>
 /loop or /cloop [enable/disable] or [Angka antara 1-10] 
     - Saat diaktifkan, bot memutar musik yang sedang diputar menjadi 1-10 kali pada obrolan suara.
 
-✅<u>**Auth Users :**</u>
+✅<u>**Pengguna Auth :**</u>
 Pengguna Auth dapat menggunakan perintah admin tanpa hak admin di obrolan Anda.
 
 /auth [Username] - Tambahkan pengguna ke daftar AUTH grup.
@@ -30,7 +30,7 @@ Pengguna Auth dapat menggunakan perintah admin tanpa hak admin di obrolan Anda.
 /authusers - Periksa daftar AUTH grup."""
 
 
-HELP_2 = """✅<u>**Play Commands :**</u>
+HELP_2 = """✅<u>**Perintah Mainkan :**</u>
 
 Perintah yang tersedia = play , vplay , cplay
 
@@ -46,13 +46,13 @@ Perintah ForcePlay = playforce , vplayforce , cplayforce
 /channelplay [Chat username or id] or [Disable] - Hubungkan channel ke grup dan streaming musik di obrolan suara channel dari grup Anda.
 
 
-✅**<u>Bot's Server Playlists :</u>**
+✅**<u>Daftar Putar :</u>**
 /playlist  - Periksa Daftar Putar tersimpan Anda di server.
 /deleteplaylist - Hapus semua musik yang disimpan di daftar putar Anda.
 /play  - Mulai mainkan Daftar Putar tersimpan Anda dari Server."""
 
 
-HELP_3 = """✅<u>**Bot Commands :**</u>
+HELP_3 = """✅<u>**Perintah Bot :**</u>
 
 /stats - Dapatkan Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat, dll.
 
@@ -68,12 +68,12 @@ HELP_3 = """✅<u>**Bot Commands :**</u>
 
 /queue or /cqueue - Periksa Daftar Antrian Musik."""
 
-HELP_4 = """✅<u>**Extra  Commands :**</u>
+HELP_4 = """✅<u>**Perintah Ekstra :**</u>
 /start - Memulai Bot.
 /help  - Dapatkan Menu  Perintah dengan penjelasan rinci tentang perintah.
 /ping - Ping Bot dan periksa statistik Ram, Cpu, dll dari Bot.
 
-✅<u>**Group Settings :**</u>
+✅<u>**Pengaturan Grup :**</u>
 /settings - Dapatkan pengaturan grup lengkap dengan tombol sebaris.
 
 🔗 **Opsi Pengaturan :**
@@ -94,25 +94,25 @@ HELP_4 = """✅<u>**Extra  Commands :**</u>
 
 <u>Options in playmode :</u>
 
-1️⃣ **Search Mode** [Direct atau Inline] - Mengubah mode pencarian Anda saat Anda memberikan mode /play. 
+1️⃣ **Mode Pencarian** [Langsung atau Inline] - Mengubah mode pencarian Anda saat Anda memberikan mode /play. 
 
-2️⃣ **Admin Commands** [Everyone atau Admins] - Jika Everyone, siapa pun yang hadir di grup Anda akan dapat menggunakan perintah admin (seperti /skip, /stop dll).
+2️⃣ **Perintah Admin** [Semuanya atau Admin] - Jika Everyone, siapa pun yang hadir di grup Anda akan dapat menggunakan perintah admin (seperti /skip, /stop dll).
 
-3️⃣ **Play Type** [Everyone atau Admins] - Jika admins, hanya admin yang ada di grup yang dapat memutar musik di obrolan suara."""
+3️⃣ **Jenis Pemutaran** [Semua atau Admin] - Jika admin, hanya admin yang ada di grup yang dapat memutar musik di obrolan suara."""
 
-HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
-/addsudo [Username atau Balas ke Pengguna]
-/delsudo [Username atau Balas ke Pengguna]
+HELP_5 = """🔰**<u>Tambah & Hapus Pengguna Sudo :</u>**
+/addsudo [Nama Pengguna atau Balas ke Pengguna]
+/delsudo [Nama Pengguna atau Balas ke Pengguna]
 
 🛃**<u>HEROKU :</u>**
 /usage - Penggunaan Dynos.
 
-🌐**<u>CONFIG VARS :</u>**
+🌐**<u>Config Vars :</u>**
 /get_var - Dapatkan var konfigurasi dari Heroku atau .env.
 /del_var - Hapus semua var di Heroku atau .env.
 /set_var [Nama Var] [Value] - Setel Var atau Perbarui Var di heroku atau .env. Pisahkan Var dan Value dengan spasi.
 
-🤖**<u>BOT COMMANDS :</u>**
+🤖**<u>Perintah Bot :</u>**
 /reboot - Nyalakan ulang Bot. 
 /update - Perbarui Bot.
 /speedtest - Periksa kecepatan server
@@ -121,36 +121,36 @@ HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 /get_log [Number of Lines] - Dapatkan log bot Anda dari heroku atau vps. Bisa untuk keduanya.
 /autoend [enable|disable] - Aktifkan Auto end setelah 3 menit jika tidak ada yang mendengarkan.
 
-📈**<u>STATS COMMANDS :</u>**
+📈**<u>Perintah Statistik :</u>**
 /activevoice - Periksa obrolan suara aktif di Bot.
 /activevideo - Periksa panggilan video aktif di Bot.
 /stats - Periksa Statistik Bot.
 
-⚠️**<u>BLACKLIST CHAT FUNCTION :</u>**
+⚠️**<u>Perintah Blacklist :</u>**
 /blacklistchat [CHAT_ID] - Daftar hitam obrolan Grup.
 /whitelistchat [CHAT_ID] - Mengubah daftar hitam ke daftar putih obrolan grup
 /blacklistedchat - Check all blacklisted chats.
 
-👤**<u>BLOCKED FUNCTION :</u>**
+👤**<u>Perintah Blokir :</u>**
 /block [Username atau Balas ke Pengguna] - Mencegah pengguna menggunakan perintah Bot.
 /unblock [Username atau Balas ke Pengguna] - Hapus pengguna dari Daftar Blokir Bot.
 /blockedusers - Periksa Daftar Pengguna yang diblokir
 
-👤**<u>GBAN FUNCTION :</u>**
+👤**<u>Global Ban :</u>**
 /gban [Username atau Balas ke Pengguna] - Gban pengguna dari obrolan yang dilayani bot dan hentikan dia menggunakan Bot.
 /ungban [Username atau Balas ke Pengguna] - Hapus pengguna dari Daftar gbanned Bot dan izinkan dia menggunakan Bot.
 /gbannedusers - Periksa Daftar Pengguna Gbanned
 
-🎥**<u>VIDEOCALLS FUNCTION :</u>**
+🎥**<u>Fungsi Videocall :</u>**
 /set_video_limit [Number atau Chats] - Tetapkan Jumlah Obrolan maksimum yang diizinkan untuk Panggilan Video dalam satu waktu. Default untuk 3 obrolan.
 /videomode [download|m3u8] - Jika mode download diaktifkan, Bot akan mengunduh video. Bot Secara default ke M3u8. Anda dapat menggunakan mode unduhan ketika kueri apa pun tidak diputar dalam mode m3u8.
 
-⚡️**<u>PRIVATE BOT FUNCTION :</u>**
+⚡️**<u>Perintah Bot Pribadi :</u>**
 /authorize [CHAT_ID] - Izinkan obrolan untuk menggunakan Bot.
 /unauthorize [CHAT_ID] - Larang obrolan menggunakan Bot.
 /authorized - Periksa semua obrolan Bot yang dizinkan.
 
-🌐**<u>BROADCAST FUNCTION:</u>**
+🌐**<u>Perintah Penyiaran:</u>**
 /broadcast [Message atau balas ke pesan] - Siarkan pesan apa pun ke Grup yang Dilayani Bot.
 
 <u>options for broadcast :</u>
