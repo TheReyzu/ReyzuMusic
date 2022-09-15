@@ -160,6 +160,6 @@ HELP_5 = """🔰 **<u>Tambah & Hapus Pengguna Sudo :</u>**
 **-assistant** : Menyiarkan pesan Anda dari akun asisten Bot.
 **-nobot** : Memaksa Bot untuk tidak menyiarkan pesan.
 
-**Contoh :** `/broadcast -user -assistant -pin Ayang Melati`
+**Contoh :** `/broadcast -user -assistant -pin Hello guys`
 
 """
