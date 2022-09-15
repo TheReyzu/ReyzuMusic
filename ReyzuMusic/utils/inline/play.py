@@ -1,23 +1,21 @@
-from typing import Union
 import random
 
 from pyrogram.types import InlineKeyboardButton
-from ReyzuMusic import app
 
 selections = [
-    "▁▄▂▇▄▅▄▅▃, user_id=OWNER"
-    "▁▃▇▂▅▇▄▅▃, user_id=OWNER"
-    "▃▁▇▂▅▃▄▃▅, user_id=OWNER"
-    "▃▄▂▄▇▅▃▅▁, user_id=OWNER"
-    "▁▃▄▂▇▃▄▅▃,user_id=OWNER"
-    "▃▁▄▂▅▃▇▃▅",user_id=OWNER"
-    "▁▇▄▂▅▄▅▃▄,user_id=OWNER"
-    "▁▃▅▇▂▅▄▃▇,user_id=OWNER"
-    "▃▅▂▅▇▁▄▃▁,user_id=OWNER"
-    "▇▅▂▅▃▄▃▁▃,user_id=OWNER"
-    "▃▇▂▅▁▅▄▃▁,user_id=OWNER"
-    "▅▄▇▂▅▂▄▇▁,user_id=OWNER"
-    "▃▅▂▅▃▇▄▅▃,user_id=OWNER"
+    "▁▄▂▇▄▅▄▅▃",
+    "▁▃▇▂▅▇▄▅▃",
+    "▃▁▇▂▅▃▄▃▅",
+    "▃▄▂▄▇▅▃▅▁",
+    "▁▃▄▂▇▃▄▅▃",
+    "▃▁▄▂▅▃▇▃▅",
+    "▁▇▄▂▅▄▅▃▄",
+    "▁▃▅▇▂▅▄▃▇",
+    "▃▅▂▅▇▁▄▃▁",
+    "▇▅▂▅▃▄▃▁▃",
+    "▃▇▂▅▁▅▄▃▁",
+    "▅▄▇▂▅▂▄▇▁",
+    "▃▅▂▅▃▇▄▅▃",
 ]
 
 
