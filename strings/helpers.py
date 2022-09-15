@@ -104,15 +104,15 @@ HELP_5 = """🔰**<u>Tambah & Hapus Pengguna Sudo :</u>**
 /addsudo [Nama Pengguna atau Balas ke Pengguna]
 /delsudo [Nama Pengguna atau Balas ke Pengguna]
 
-🛃**<u>Heroku :</u>**
+🛃 **<u>Heroku :</u>**
 /usage - Penggunaan Dynos.
 
-🌐**<u>Config Vars :</u>**
+🌐 **<u>Config Vars :</u>**
 /get_var - Dapatkan var konfigurasi dari Heroku atau .env.
 /del_var - Hapus semua var di Heroku atau .env.
 /set_var [Nama Var] [Value] - Setel Var atau Perbarui Var di heroku atau .env. Pisahkan Var dan Value dengan spasi.
 
-🤖**<u>Perintah Bot :</u>**
+🤖 **<u>Perintah Bot :</u>**
 /reboot - Nyalakan ulang Bot. 
 /update - Perbarui Bot.
 /speedtest - Periksa kecepatan server
@@ -121,36 +121,36 @@ HELP_5 = """🔰**<u>Tambah & Hapus Pengguna Sudo :</u>**
 /get_log [Number of Lines] - Dapatkan log bot Anda dari heroku atau vps. Bisa untuk keduanya.
 /autoend [enable|disable] - Aktifkan Auto end setelah 3 menit jika tidak ada yang mendengarkan.
 
-📈**<u>Perintah Statistik :</u>**
+📈 **<u>Perintah Statistik :</u>**
 /activevoice - Periksa obrolan suara aktif di Bot.
 /activevideo - Periksa panggilan video aktif di Bot.
 /stats - Periksa Statistik Bot.
 
-⚠️**<u>Perintah Blacklist :</u>**
+⚠️ **<u>Perintah Blacklist :</u>**
 /blacklistchat [CHAT_ID] - Daftar hitam obrolan Grup.
 /whitelistchat [CHAT_ID] - Mengubah daftar hitam ke daftar putih obrolan grup
 /blacklistedchat - Check all blacklisted chats.
 
-👤**<u>Perintah Blokir :</u>**
+👤 **<u>Perintah Blokir :</u>**
 /block [Username atau Balas ke Pengguna] - Mencegah pengguna menggunakan perintah Bot.
 /unblock [Username atau Balas ke Pengguna] - Hapus pengguna dari Daftar Blokir Bot.
 /blockedusers - Periksa Daftar Pengguna yang diblokir
 
-👤**<u>Global Ban :</u>**
+👤 **<u>Global Ban :</u>**
 /gban [Username atau Balas ke Pengguna] - Gban pengguna dari obrolan yang dilayani bot dan hentikan dia menggunakan Bot.
 /ungban [Username atau Balas ke Pengguna] - Hapus pengguna dari Daftar gbanned Bot dan izinkan dia menggunakan Bot.
 /gbannedusers - Periksa Daftar Pengguna Gbanned
 
-🎥**<u>Fungsi Videocall :</u>**
+🎥 **<u>Fungsi Videocall :</u>**
 /set_video_limit [Number atau Chats] - Tetapkan Jumlah Obrolan maksimum yang diizinkan untuk Panggilan Video dalam satu waktu. Default untuk 3 obrolan.
 /videomode [download|m3u8] - Jika mode download diaktifkan, Bot akan mengunduh video. Bot Secara default ke M3u8. Anda dapat menggunakan mode unduhan ketika kueri apa pun tidak diputar dalam mode m3u8.
 
-⚡️**<u>Perintah Bot Pribadi :</u>**
+⚡️ **<u>Perintah Bot Pribadi :</u>**
 /authorize [CHAT_ID] - Izinkan obrolan untuk menggunakan Bot.
 /unauthorize [CHAT_ID] - Larang obrolan menggunakan Bot.
 /authorized - Periksa semua obrolan Bot yang dizinkan.
 
-🌐**<u>Perintah Penyiaran:</u>**
+🌐 **<u>Perintah Penyiaran:</u>**
 /broadcast [Message atau balas ke pesan] - Siarkan pesan apa pun ke Grup yang Dilayani Bot.
 
 <u>options for broadcast :</u>
