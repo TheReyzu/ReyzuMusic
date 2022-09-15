@@ -1,4 +1,4 @@
-HELP_1 = """✅**<u>Perintah Admin :</u>**
+HELP_1 = """✅ **<u>Perintah Admin :</u>**
 
 **c** singkatan untuk putar di Channel.
 
@@ -14,15 +14,15 @@ HELP_1 = """✅**<u>Perintah Admin :</u>**
 /restart - Mulai ulang Bot untuk grup Anda.
 
 
-✅<u>**Perintah Spesifik :**</u>
+✅ <u>**Perintah Spesifik :**</u>
 /skip or /cskip [Nomor (contoh : 3)] 
     - Melewati musik ke nomor antrian yang ditentukan. Contoh : /skip 3 akan melewatkan musik ke musik antrian ketiga dan akan mengabaikan musik 1 dan 2 dalam antrian.
 
-✅<u>**Perintah Loop :**</u>
+✅ <u>**Perintah Loop :**</u>
 /loop or /cloop [enable/disable] or [Angka antara 1-10] 
     - Saat diaktifkan, bot memutar musik yang sedang diputar menjadi 1-10 kali pada obrolan suara.
 
-✅<u>**Pengguna Auth :**</u>
+✅ <u>**Pengguna Auth :**</u>
 Pengguna Auth dapat menggunakan perintah admin tanpa hak admin di obrolan Anda.
 
 /auth [Username] - Tambahkan pengguna ke daftar AUTH grup.
@@ -30,7 +30,7 @@ Pengguna Auth dapat menggunakan perintah admin tanpa hak admin di obrolan Anda.
 /authusers - Periksa daftar AUTH grup."""
 
 
-HELP_2 = """✅<u>**Perintah Mainkan :**</u>
+HELP_2 = """✅ <u>**Perintah Mainkan :**</u>
 
 Perintah yang tersedia = play , vplay , cplay
 
@@ -46,13 +46,13 @@ Perintah ForcePlay = playforce , vplayforce , cplayforce
 /channelplay [Chat username or id] or [Disable] - Hubungkan channel ke grup dan streaming musik di obrolan suara channel dari grup Anda.
 
 
-✅**<u>Daftar Putar :</u>**
+✅ **<u>Daftar Putar :</u>**
 /playlist  - Periksa Daftar Putar tersimpan Anda di server.
 /deleteplaylist - Hapus semua musik yang disimpan di daftar putar Anda.
 /play  - Mulai mainkan Daftar Putar tersimpan Anda dari Server."""
 
 
-HELP_3 = """✅<u>**Perintah Bot :**</u>
+HELP_3 = """✅ <u>**Perintah Bot :**</u>
 
 /stats - Dapatkan Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat, dll.
 
@@ -68,12 +68,12 @@ HELP_3 = """✅<u>**Perintah Bot :**</u>
 
 /queue or /cqueue - Periksa Daftar Antrian Musik."""
 
-HELP_4 = """✅<u>**Perintah Ekstra :**</u>
+HELP_4 = """✅ <u>**Perintah Ekstra :**</u>
 /start - Memulai Bot.
 /help  - Dapatkan Menu  Perintah dengan penjelasan rinci tentang perintah.
 /ping - Ping Bot dan periksa statistik Ram, Cpu, dll dari Bot.
 
-✅<u>**Pengaturan Grup :**</u>
+✅ <u>**Pengaturan Grup :**</u>
 /settings - Dapatkan pengaturan grup lengkap dengan tombol sebaris.
 
 🔗 **Opsi Pengaturan :**
@@ -100,7 +100,7 @@ HELP_4 = """✅<u>**Perintah Ekstra :**</u>
 
 3️⃣ **Jenis Pemutaran** [Semua atau Admin] - Jika admin, hanya admin yang ada di grup yang dapat memutar musik di obrolan suara."""
 
-HELP_5 = """🔰**<u>Tambah & Hapus Pengguna Sudo :</u>**
+HELP_5 = """🔰 **<u>Tambah & Hapus Pengguna Sudo :</u>**
 /addsudo [Nama Pengguna atau Balas ke Pengguna]
 /delsudo [Nama Pengguna atau Balas ke Pengguna]
 
