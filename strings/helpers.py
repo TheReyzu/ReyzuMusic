@@ -54,7 +54,7 @@ Perintah ForcePlay = playforce , vplayforce , cplayforce
 
 HELP_3 = """✅ <u>**Perintah Bot :**</u>
 
-/stats - Dapatkan Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat, dll.
+/stats - Dapatkan 10 Trek Teratas.
 
 /sudolist - Periksa Pengguna Sudo
 
@@ -64,7 +64,7 @@ HELP_3 = """✅ <u>**Perintah Bot :**</u>
 
 /player -  Dapatkan Panel Mainkan interaktif.
 
-**c** singkatan dari pemutaran saluran.
+**c** singkatan dari pemutaran di Channel.
 
 /queue or /cqueue - Periksa Daftar Antrian Musik."""
 
