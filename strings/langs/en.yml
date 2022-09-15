@@ -283,9 +283,9 @@ PL_B_5 : "🔄 Del Whole Playlist"
 PL_B_6 : "↗️ Delete Playlist"
 PL_B_7 : "❗️ Yes, I'm sure. Delete it"
 PL_B_8 : "🔢 Top 10"
-PL_B_9 : "🤖 Play Global Top 10 Tracks"
-PL_B_10 : "🏘 Play Group's Top 10 Tracks"
-PL_B_11 : "👤 Play Personal Top 10 Tracks"
+PL_B_9 : "🤖 Global Top 10 Tracks"
+PL_B_10 : "🏘 Group's Top 10 Tracks"
+PL_B_11 : "👤 Personal Top 10 Tracks"
 
 #Settings
 ST_B_1 : "🔊 Aud Quality"
