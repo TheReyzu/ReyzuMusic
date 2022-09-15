@@ -104,7 +104,7 @@ HELP_5 = """🔰**<u>Tambah & Hapus Pengguna Sudo :</u>**
 /addsudo [Nama Pengguna atau Balas ke Pengguna]
 /delsudo [Nama Pengguna atau Balas ke Pengguna]
 
-🛃**<u>HEROKU :</u>**
+🛃**<u>Heroku :</u>**
 /usage - Penggunaan Dynos.
 
 🌐**<u>Config Vars :</u>**
