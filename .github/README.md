@@ -29,25 +29,25 @@
 <br>
     
 #### Tutorials Deploy on VPS
-> 1. Create Screen : 
-```console
-screen -S ReyzuMusic
-```
-> 2. Update and Upgrade
+> 1. Update and Upgrade
 ```console
 sudo apt-get update && sudo apt-get upgrade -y
 ```
-> 3. Installing Required Packages :
+> 2. Installing Required Packages :
 ```console
 sudo apt-get install python3-pip ffmpeg -y
 ```
-> 4. Setting up PIP :
+> 3. Setting up PIP :
 ```console
 sudo pip3 install -U pip
 ```
-> 5. Installing Node :
+> 4. Installing Node :
 ```console
 curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+```
+> 5. Create Screen : 
+```console
+screen -S ReyzuMusic
 ```
 > 6. Clone the Repository :
 ```console
