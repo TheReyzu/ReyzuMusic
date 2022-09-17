@@ -153,8 +153,8 @@ play_8 : "Bukan Ekstensi File Video yang Valid!\n\n**Format yang Didukung:** {0}
 play_9 : "Ukuran File Video Harus Kurang dari 1 GiB"
 play_10 : "**Fitur Daftar Putar YouTube**\n\nPilih Mode di mana Anda ingin memutar seluruh Daftar Putar Youtube"
 play_11 : "📎Judul: **{0}\n\n⏳Durasi:** {1} Menit"
-play_12 : "**Mode Putar Spotify**\n\nDiminta Oleh:- {0}"
-play_13 : "**Daftar Putar Apple**\n\nDiminta Oleh:- {0}"
+play_12 : "**Mode Putar Spotify**\n\nDiminta Oleh :- {0}"
+play_13 : "**Daftar Putar Apple**\n\nDiminta Oleh :- {0}"
 play_14 : "**Tidak dapat memverifikasi URL.**\nBot bertanya-tanya apakah url ini milik salah satu platform berikut: Youtube, AppleMusic, Spotify, Resso, dan Soundcloud.\n\nAnda dapat menggunakan /stream untuk M3u8 atau Remote Links ."
 play_15 : "**Live Stream Terdeteksi**\n\nSistem telah mendeteksi tautan trek Anda sebagai streaming langsung. Ingin memutar streaming langsung ?"
 play_16 : "Gagal mengambil detail trek. Coba mainkan yang lain."
@@ -192,7 +192,7 @@ str_2 : "✅ Aliran Valid Terverifikasi\n\nHarap tunggu memproses tautan.."
 str_3 : "Tidak dapat melakukan streaming streaming langsung youtube. Format Langsung Tidak Ditemukan"
 
 #TopPlay
-track_1 : "**Memproses {0} Daftar Putar 10 Teratas**\nIni bisa memakan waktu beberapa menit (sekitar 3-4 menit).. Harap Tunggu...\n\n**👤Diminta Oleh:** {1}\ n\nPeriksa 10 lagu teratas menurut /gstats"
+track_1 : "**Memproses {0} Daftar Putar 10 Teratas**\nIni bisa memakan waktu beberapa menit (sekitar 3-4 menit).. Harap Tunggu...\n\n**👤Diminta Oleh :** {1}\ n\nPeriksa 10 lagu teratas menurut /gstats"
 track_2 : "**Error**\n\nTidak ada **{0} Top 10 Playlist** di server bot. Silakan coba playlist lain"
 
 # TOOLS
@@ -217,7 +217,7 @@ song_5 : "Bukan Tautan Youtube yang valid"
 song_6 : "Mendapatkan Format.. \n\nMohon Tunggu.."
 song_7 : "Gagal mendapatkan format yang tersedia untuk video. Silakan coba trek lain."
 song_8 : "Pengunduhan Dimulai\n\nKecepatan pengunduhan mungkin lambat. Harap tunggu.."
-song_9 : "Gagal mendownload lagu dari Youtube-DL\n\n**Alasan:** {0}"
+song_9 : "Gagal mendownload lagu dari Youtube-DL\n\n**Alasan :** {0}"
 song_10 : "Gagal mengunggah telegram dari server."
 song_11 : "Pengunggahan Dimulai\n\nKecepatan pengunggahan mungkin lambat. Harap tunggu sebentar.."
 
@@ -225,14 +225,14 @@ song_11 : "Pengunggahan Dimulai\n\nKecepatan pengunggahan mungkin lambat. Harap 
 queue_1 : "Mohon Tunggu..Mengambil Antrian.."
 queue_2 : "Daftar Antrian kosong. Tidak ada trek yang ditemukan"
 queue_3 : "<u>**Trek Antrian:</u>** [Lihat Trek Antrian Lainnya Dari Sini]({0})"
-queue_4 : "⏳ Ditambahkan ke Antrian di **#{0}\n\n💡Judul:** {1}\n⏰**Durasi:** {2}\n👤**Ditambahkan Oleh:** {3}"
+queue_4 : "⏳ Ditambahkan ke Antrian di **#{0}\n\n💡Judul:** {1}\n⏰**Durasi :** {2}\n👤**Ditambahkan Oleh :** {3}"
 queue_5 : "Hanya satu track di dalam antrian, Silahkan tambahkan lagi untuk check list"
 
 # All Streaming Lines
-stream_1 : "⚡ **Memulai Streaming** 💡\n\n👤**Diminta Oleh:** {0}\n🔦**Informasi: **[Di Sini]({1})"
-stream_2 : "⚡ **Memulai Streaming melalui URL ** \n\n👤**Diminta Oleh:** {0}"
-stream_3 : "⚡ **Memulai Streaming** 💡\n\n**🏷Judul:** {0}\n⌛️**Durasi**: {1}\n👤**Diminta Oleh:** {2} "
-stream_4 : "⚡ **Memulai Streaming** \n\n**🏷Judul:** [{0}]({1})\n⌛️**Durasi**: {2}\n👤**Diminta Oleh:** {3}"
+stream_1 : "⚡ **Memulai Streaming** 💡\n\n👤**Diminta Oleh :** {0}\n🔦**Informasi : **[Di Sini]({1})"
+stream_2 : "⚡ **Memulai Streaming melalui URL ** \n\n👤**Diminta Oleh :** {0}"
+stream_3 : "⚡ **Memulai Streaming** 💡\n\n**🏷Judul:** {0}\n⌛️**Durasi**: {1}\n👤**Diminta Oleh :** {2} "
+stream_4 : "⚡ **Memulai Streaming** \n\n**🏷Judul:** [{0}]({1})\n⌛️**Durasi**: {2}\n👤**Diminta Oleh :** {3}"
 
 # Inline Buttons
 
