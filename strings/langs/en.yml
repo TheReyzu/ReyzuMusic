@@ -232,7 +232,7 @@ queue_5 : "Hanya satu track di dalam antrian, Silahkan tambahkan lagi untuk chec
 stream_1 : "⚡ **Memulai Streaming** 💡\n\n👤**Diminta Oleh :** {0}\n🔦**Informasi : **[Di Sini]({1})"
 stream_2 : "⚡ **Memulai Streaming melalui URL ** \n\n👤**Diminta Oleh :** {0}"
 stream_3 : "⚡ **Memulai Streaming** 💡\n\n**🏷Judul:** {0}\n⌛️**Durasi**: {1}\n👤**Diminta Oleh :** {2} "
-stream_4 : "⚡ **Memulai Streaming** \n\n**🏷Judul:** [{0}]({1})\n⌛️**Durasi**: {2}\n👤**Diminta Oleh :** {3}"
+stream_4 : "⚡ **Memulai Streaming** \n\n**🏷Judul:** [{0}]({1})\n⌛️**Durasi** : {2}\n👤**Diminta Oleh :** {3}"
 
 # Inline Buttons
 
