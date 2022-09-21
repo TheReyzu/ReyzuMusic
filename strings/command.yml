@@ -4,7 +4,7 @@
 PING_COMMAND : ["ping"]
 START_COMMAND : ["start"]
 HELP_COMMAND : ["mhelp"]
-SETTINGS_COMMAND : ["settings", "setting"]
+SETTINGS_COMMAND : ["setting"]
 RELOAD_COMMAND : ["admincache", "reload"]
 GSTATS_COMMAND : ["gstats"]
 STATS_COMMAND : ["stats"]
