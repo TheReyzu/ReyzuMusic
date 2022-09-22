@@ -18,7 +18,7 @@
 <br>
 
 <h4>Click the button below to deploy Prime on Heroku!<h4>    
-<a href="https://heroku.com/deploy?template=https://github.com/Reyzuuu/ReyzuMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/TheReyzu/ReyzuMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 <h4>Click the button below to deploy Reyzu on bot Telegram!</h4>
 <a href="https://t.me/ReyzuRobot"><img src="https://img.shields.io/badge/Deploy%20To%20Bot%20Telegram-blue?style=for-the-badge&logo=telegram" width="200""/></a>
@@ -51,7 +51,7 @@ curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-ge
 ```
 > 6. Clone the Repository :
 ```console
-git clone https://github.com/Reyzuuu/ReyzuMusic &&  cd ReyzuMusic
+git clone https://github.com/TheReyzu/ReyzuMusic &&  cd ReyzuMusic
 ```
 > 7. Install Requirement :
 ```console
