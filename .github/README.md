@@ -2,9 +2,9 @@
 <img src="https://telegra.ph/file/5ffffa59ab0d812b81734.jpg"/>
 </p>
 
-## Reyzu Music <img src="https://img.shields.io/github/v/release/Reyzuuu/ReyzuMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+## Reyzu Music <img src="https://img.shields.io/github/v/release/TheReyzu/ReyzuMusic?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Reyzu Music](https://github.com/Reyzuuu/ReyzuMusi) 100% clone Yukki Music Bot. Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Reyzu Music](https://github.com/TheReyzu/ReyzuMusic) 100% clone Yukki Music Bot. Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
@@ -41,13 +41,13 @@ sudo apt-get update && sudo apt-get upgrade -y
 ```console
 sudo apt-get install python3-pip ffmpeg -y
 ```
-> 4. Setting up PIP :
+> 4. Install PIP :
 ```console
 sudo pip3 install -U pip
 ```
-> 5. Installing Node :
+> 5. Installing Nodejs :
 ```console
-curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
 ```
 > 6. Clone the Repository :
 ```console
@@ -61,7 +61,7 @@ pip3 install -U -r requirements.txt
 ```console
 bash setup
 ```
-> 9. Finally Run Reyzu Music Bot
+> 9. Finally Run Reyzu Music
 ```console
 bash start
 ```
