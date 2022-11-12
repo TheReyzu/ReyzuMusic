@@ -342,8 +342,8 @@ sudo_1 : "{0} is already a sudo user."
 sudo_2 : "Added **{0}** to Sudo Users." 
 sudo_3 : "Not a part of Bot's Sudo."
 sudo_4 : "Removed from Bot's Sudo User"
-sudo_5 : "⭐️<u> **Owners:**</u>\n"
-sudo_6 : "\n⭐️<u> **Sudo Users:**</u>\n"
+sudo_5 : "⭐️<u> **Owners :**</u>\n"
+sudo_6 : "\n⭐️<u> **Sudo Users :**</u>\n"
 sudo_7 : "No Sudo Users"
 
 #Block
