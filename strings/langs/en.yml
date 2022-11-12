@@ -342,8 +342,8 @@ sudo_1 : "{0} sudah menjadi pengguna sudo."
 sudo_2 : "Ditambahkan *{0}** ke Pengguna Sudo."
 sudo_3 : "Bukan bagian dari Sudo Bot."
 sudo_4 : "Dihapus dari Pengguna Sudo Bot"
-sudo_5 : "👑<u> **Pemilik:**</u>\n"
-sudo_6 : "\n👨‍🚀<u> **Pengguna Sudo:**</u>\n"
+sudo_5 : "👑<u> **Pemilik :**</u>\n"
+sudo_6 : "\n👨‍🚀<u> **Pengguna Sudo :**</u>\n"
 sudo_7 : "Tidak Ada Pengguna Sudo"
 
 #Block
